@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Arikar</h1>
-<h3 align="center">Full Stack Web Developer from India</h3>
+<h3 align="center">Mobile App Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshanarikar&label=Profile%20views&color=0e75b6&style=flat" alt="roshanarikar" />
@@ -11,15 +11,16 @@
   </a> 
 </p>
 
-- 🌱 I’m currently **Full Stack developer** in **Right Serve Infotech System Pvt. Ltd.**
+- 🌱 I’m currently **Mobile App Developer** in **Technobase IT Solutions Pvt. Ltd.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Mongo, Express, Node**
+- 💬 Ask me about **React Native, Flutter, Android, iOS, Native, React**
 
 - 📫 How to reach me **roshan.g.arikar1@gmail.com**
 
 - 🏢 **Experience:**
   - Full Stack Developer at **Savitar Innovative Solution Pvt Ltd** (January 2023 - June 2024)
-  - Full Stack Developer at **Right Serve Infotech System Pvt Ltd** (June 2024 - Present)
+  - Mobile App Developer at **Right Serve Infotech System Pvt Ltd** (June 2024 - February 2025)
+  - Mobile App Developer at **Technobase IT Solution Pvt Ltd** (February 2025 - Present)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
